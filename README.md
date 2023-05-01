@@ -1,8 +1,8 @@
 Hello, nice to meet you!☺️
 
-🔷 **What I'm doing these days**
-- Participating in Creating React Onboarding Program
-- Studying this book : Refactoring 2th (Martin Fowler)
+🔷 **What I'm doing these days<sup><a href="https://south-bread-57d.notion.site/Archive-9bc094d6b95141db8af2f989f55d42d4">notion page</a></sup>**
+- Participating in Creating React Onboarding Program (사내 React온보딩 프로그램 제작 참여) 
+- Studying this book : Refactoring 2th (Martin Fowler)(리팩토링2판 책 스터디) 
 
 
 🔷 **Tech Skills**
