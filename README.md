@@ -31,4 +31,5 @@ Hello, nice to meet you!☺️
 <p>
   <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=Node.js&logoColor=339933"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React%20Query-ffffff?style=flat-square&logo=reactquery&logoColor=#FF4154"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vite-ffffff?style=flat-square&logo=vite&logoColor=#646CFF"/></a>&nbsp 
 </p>
