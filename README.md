@@ -9,21 +9,21 @@ Hello, nice to meet you!☺️
 
 <p>
     <div>
-        <img src="https://img.shields.io/badge/HTML-ffffff?style=flat-square&logo=html5&logoColor=#E34F26"/></a>
-        <img src="https://img.shields.io/badge/CSS-ffffff?style=flat-square&logo=css3&logoColor=1572B6"/></a>
+        <img src="https://img.shields.io/badge/HTML-ffffff?style=flat-square&logo=html5&logoColor=#E34F26"/>
+        <img src="https://img.shields.io/badge/CSS-ffffff?style=flat-square&logo=css3&logoColor=1572B6"/>
     </div>
     <div>
-        <img src="https://img.shields.io/badge/Javascript-ffffff?style=flat-square&logo=javascript&logoColor=#3178C6"/></a>
-        <img src="https://img.shields.io/badge/Typescript-ffffff?style=flat-square&logo=typescript&logoColor=#ffb13b"/></a>
+        <img src="https://img.shields.io/badge/Javascript-ffffff?style=flat-square&logo=javascript&logoColor=#3178C6"/>
+        <img src="https://img.shields.io/badge/Typescript-ffffff?style=flat-square&logo=typescript&logoColor=#ffb13b"/>
     </div>
     <div>
-        <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=#61DAFB"/></a>
-        <img src="https://img.shields.io/badge/Nextjs-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000"/></a>
+        <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=#61DAFB"/>
+        <img src="https://img.shields.io/badge/Nextjs-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000"/>
         </div>
         <div>
-        <img src="https://img.shields.io/badge/Styled%2D%2DComponents-ffffff?style=flat-square&logo=styledcomponents&logoColor=#DB7093"/></a>
-        <img src="https://img.shields.io/badge/Redux-ffffff?style=flat-square&logo=redux&logoColor=764ABC"/></a>
-        <img src="https://img.shields.io/badge/Axios-ffffff?style=flat-square&logo=axios&logoColor=5A29E4"/></a>
+        <img src="https://img.shields.io/badge/Styled%2D%2DComponents-ffffff?style=flat-square&logo=styledcomponents&logoColor=#DB7093"/>
+        <img src="https://img.shields.io/badge/Redux-ffffff?style=flat-square&logo=redux&logoColor=764ABC"/>
+        <img src="https://img.shields.io/badge/Axios-ffffff?style=flat-square&logo=axios&logoColor=5A29E4"/>
     </div>
 </p>
 
